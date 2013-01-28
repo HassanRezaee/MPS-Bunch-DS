@@ -1,0 +1,18 @@
+TI name =  TI_A  
+Conditioning mode =  Conditional Simulation  
+conditioning weight  =  10  
+Conditioning data name =  TI_A_Sparse_Cond  
+Simulation Grid Dimension (x,y) =  64 64 1
+Search Radii (X , Y , Z) =  12 12 1
+Fraction of ti which is scanned =  0.7  
+Distance type =  Continuous variable  
+Distance threshold =  0.01  
+Maximum number of nodes in dataevent =  50  
+Window type =  Circular  
+Bunch size =  25  
+Simulation path mode =  Unilateral or Raster path is adopted  
+The TI scanned through =  Unilateral path with starting point  
+Number of realizations that are produced =  1  
+Post-processing maps =  No post-processing step is taken  
+---------------------------------------------------   
+Simulation time for one realization is (sec):  60.5185  
